@@ -1,0 +1,13 @@
+{
+  "name": "week5-refactor-sample",
+  "version": "1.0.0",
+  "description": "Sample project for Week 5 Reusability & Refactoring exercise",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/runTests.js && node test/utils.test.js",
+    "lint": "echo No linter configured"
+  },
+  "author": "student",
+  "license": "MIT"
+}
